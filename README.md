@@ -26,11 +26,13 @@ You will design an application that will manage bookmarks for your PHP websites.
   * Bonus: Well Documented
   * Tested
 
-# A Laravel-based bookmark manager
+## A Laravel-based bookmark manager
 
-This is a simple bookmark manager written in Laravel and using Boostrap. Its more a proof-of-concept and not really ready for production... yet.
+## Synopsis 
 
-## Requirements
+This is a simple PHP bookmark manager written in Laravel and using Boostrap. Its more a proof-of-concept and not really ready for production... yet.
+
+## Specifications
 
 * Suitable server (LAMP-based)
 * A MySQL database for use with Bookmarks (utf8 should be fine)
