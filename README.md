@@ -80,6 +80,10 @@ chmod -R 777 /my/bookmarks/webroot
 ```
 Default user/password is: admin@localhost/password
 
+## The Dashboard
+
+![The Dashboard](https://raw.githubusercontent.com/csecrestjr/laravel-bookmarks/master/grabs/dashboard.png)
+
 ## Features
 * Basic accounts
 * Public/private bookmarks
