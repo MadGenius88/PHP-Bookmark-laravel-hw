@@ -104,4 +104,4 @@ Default user/password is: admin@localhost/password
 There is already a .htaccess in the root to rewrite to /public
 
 ## License 
-This work uses MIT license. 
+The Laravel framework is open-sourced software licensed under the MIT license.
