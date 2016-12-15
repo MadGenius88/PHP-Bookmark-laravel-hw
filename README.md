@@ -26,5 +26,4 @@ You will design an application that will manage bookmarks for your PHP websites.
   * Bonus: Well Documented
   * Tested
   
-## License 
-MIT
+
