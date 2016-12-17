@@ -101,3 +101,5 @@ There is already a .htaccess in the root to rewrite to /public
 
 ## License 
 The Laravel framework is open-sourced software licensed under the MIT license.
+
+#Comments welcome to Calvin Secrest, clsecrest2@gmail.com
